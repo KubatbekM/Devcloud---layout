@@ -1,2 +1,1 @@
-# Devcloud---layout
-# https://kubatbekm.github.io/Devcloud---layout/
+https://kubatbekm.github.io/Devcloud---layout/
